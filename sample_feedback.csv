@@ -1,0 +1,31 @@
+feedback,sentiment,product,rating,date
+The delivery was fast and the product works perfectly.,Positive,Wireless Earbuds,5,2026-01-05
+Excellent quality and very easy to use.,Positive,Smart Watch,5,2026-01-08
+Customer support solved my issue quickly.,Positive,Wireless Earbuds,4,2026-01-12
+Great value for money and good packaging.,Positive,Coffee Maker,5,2026-01-18
+I love the design and battery life is impressive.,Positive,Smart Watch,5,2026-02-02
+The item arrived broken and the box was damaged.,Negative,Coffee Maker,1,2026-02-04
+Delivery was late and nobody responded to my messages.,Negative,Wireless Earbuds,2,2026-02-10
+"Poor quality, stopped working after two days.",Negative,Smart Watch,1,2026-02-13
+The price is too high for this quality.,Negative,Coffee Maker,2,2026-02-19
+Customer service was unhelpful and the refund is delayed.,Negative,Wireless Earbuds,1,2026-03-01
+"It is okay, nothing special but it does the job.",Neutral,Smart Watch,3,2026-03-03
+Average product with standard features.,Neutral,Coffee Maker,3,2026-03-08
+The delivery arrived on time and the package was normal.,Neutral,Wireless Earbuds,3,2026-03-12
+"Setup was straightforward, performance is acceptable.",Neutral,Smart Watch,3,2026-03-18
+"Not bad, but there is room for improvement.",Neutral,Coffee Maker,3,2026-03-22
+Amazing sound quality and comfortable fit.,Positive,Wireless Earbuds,5,2026-04-02
+Battery drains quickly and the screen has scratches.,Negative,Smart Watch,2,2026-04-06
+The coffee maker is simple and makes great coffee.,Positive,Coffee Maker,4,2026-04-09
+The app keeps crashing and syncing does not work.,Negative,Smart Watch,1,2026-04-14
+The product matches the description and works as expected.,Neutral,Wireless Earbuds,3,2026-04-20
+"Fast shipping, helpful support, and excellent performance.",Positive,Coffee Maker,5,2026-05-01
+The replacement part never arrived and support ignored me.,Negative,Coffee Maker,1,2026-05-05
+"Comfortable to wear, but the features are basic.",Neutral,Smart Watch,3,2026-05-11
+"Good quality for the price, I would recommend it.",Positive,Wireless Earbuds,4,2026-05-15
+Refund process was frustrating and the package came late.,Negative,Wireless Earbuds,2,2026-05-21
+The product is fine and the instructions are clear.,Neutral,Coffee Maker,3,2026-06-02
+"Very happy with the purchase, works better than expected.",Positive,Smart Watch,5,2026-06-07
+"Poor battery, slow delivery, and disappointing support.",Negative,Smart Watch,1,2026-06-12
+"The design is nice, but the performance is average.",Neutral,Wireless Earbuds,3,2026-06-18
+Reliable product and simple setup. Great experience.,Positive,Coffee Maker,4,2026-06-23
